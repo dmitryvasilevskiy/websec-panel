@@ -5,7 +5,11 @@
     "license": "MIT",
     "authors": [],
     "require": {
-        "php": "*"
+        "php": "*",
+        "illuminate/support": "*",
+        "illuminate/routing": "*",
+        "illuminate/http": "*",
+        "spatie/laravel-glide": "*"
     },
     "autoload": {
         "psr-4": {
